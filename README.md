@@ -7,9 +7,9 @@
 #### Imagem do projeto
 ##### Nome: Quiz para programadores iniciante.
 
-#### Divirta-se: https://arymanreis.github.io/Formulario_Multstep/ 
+#### Divirta-se: https://arymanreis.github.io/quiz_programador_react/ 
 
-<img align="center" src="src/img/Captura_De_Tela.png" alt="imagem do projeto"/>
+<img align="center" src="quiz/src/img/Captura_de_Tela.png" alt="imagem do projeto"/>
 
 #### Tecnologias Usadas no projeto
 
