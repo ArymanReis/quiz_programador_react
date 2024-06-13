@@ -9,7 +9,7 @@
 
 #### Divirta-se: https://arymanreis.github.io/Formulario_Multstep/ 
 
-<img align="center" src="multstep/public/multstep.png" alt="imagem do projeto"/>
+<img align="center" src="src/img/Captura_De_Tela.png" alt="imagem do projeto"/>
 
 #### Tecnologias Usadas no projeto
 
